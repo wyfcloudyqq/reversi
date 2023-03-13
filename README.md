@@ -32,12 +32,10 @@ Game Tree Reversi; valuation; function;
 
 
 
-介绍
-黑白棋
-软件架构
-软件架构说明
+
+## 软件架构说明
 ## 安装教程
-xxxx
+### 安装环境
 xxxx
 xxxx
 ## 使用说明
